@@ -33,7 +33,7 @@ namespace AplikasListBilanganPrima
                 
                 if (isPrima)//Jika setelah melakukan loop isPrime masih true
                 {
-                    Console.Write(num + " ");//Maka num yang telah di filter akan ditampilkan ke dalam list bilangan prima pada console
+                    Console.WriteLine(num + " ");//Maka num yang telah di filter akan ditampilkan ke dalam list bilangan prima pada console
                 }
             }
         }
