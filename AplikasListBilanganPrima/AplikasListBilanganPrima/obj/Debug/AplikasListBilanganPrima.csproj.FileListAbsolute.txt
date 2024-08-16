@@ -1,0 +1,7 @@
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\obj\Debug\AplikasListBilanganPrima.csproj.AssemblyReference.cache
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\obj\Debug\AplikasListBilanganPrima.csproj.CoreCompileInputs.cache
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\bin\Debug\AplikasListBilanganPrima.exe.config
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\bin\Debug\AplikasListBilanganPrima.exe
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\bin\Debug\AplikasListBilanganPrima.pdb
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\obj\Debug\AplikasListBilanganPrima.exe
+C:\Users\akhda\source\repos\AplikasListBilanganPrima\AplikasListBilanganPrima\obj\Debug\AplikasListBilanganPrima.pdb
